@@ -9,5 +9,7 @@
 // ["Russia", “Denmark", "Kazan"] → []
 
 
+string[] originalArray = { "Hello", "2", "world", ":-)" };
 
+string[] filteredArray = new string[originalArray.Length];
 
