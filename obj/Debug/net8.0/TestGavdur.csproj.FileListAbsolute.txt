@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\TestGavdur\bin\Debug\net8.0\TestGavdur.exe
+C:\Users\User\OneDrive\Documents\TestGavdur\bin\Debug\net8.0\TestGavdur.deps.json
+C:\Users\User\OneDrive\Documents\TestGavdur\bin\Debug\net8.0\TestGavdur.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\TestGavdur\bin\Debug\net8.0\TestGavdur.dll
+C:\Users\User\OneDrive\Documents\TestGavdur\bin\Debug\net8.0\TestGavdur.pdb
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.sourcelink.json
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.dll
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\refint\TestGavdur.dll
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.pdb
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\TestGavdur.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\TestGavdur\obj\Debug\net8.0\ref\TestGavdur.dll
