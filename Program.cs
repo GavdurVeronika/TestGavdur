@@ -21,3 +21,4 @@ foreach (string str in originalArray)
     }
 }
 string[] finalArray = new string[index];
+Array.Copy(filterArray, finalArray, index);
