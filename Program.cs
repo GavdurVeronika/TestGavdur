@@ -11,5 +11,12 @@
 
 string[] originalArray = { "Hello", "2", "world", ":-)" };
 string[] filterArray = new string[originalArray.Length];
-int Index = 0;
-
+int index = 0;
+foreach (string str in originalArray)
+{
+    if (str.Length <= 3)
+    {
+        filterArray[index] = str;
+        index++;
+    }
+}
