@@ -22,3 +22,15 @@ foreach (string str in originalArray)
 }
 string[] finalArray = new string[index];
 Array.Copy(filterArray, finalArray, index);
+
+Console.Write("[ ");
+foreach (string str in originalArray)
+{
+    Console.Write(str + ", ");
+}
+Console.Write("] => [ ");
+foreach (string str in finalArray)
+{
+    Console.Write(str + ", ");
+}
+Console.Write("]");
