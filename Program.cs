@@ -10,6 +10,6 @@
 
 
 string[] originalArray = { "Hello", "2", "world", ":-)" };
-
-string[] filteredArray = new string[originalArray.Length];
+string[] filterArray = new string[originalArray.Length];
+int Index = 0;
 
