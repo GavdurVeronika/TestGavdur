@@ -20,3 +20,4 @@ foreach (string str in originalArray)
         index++;
     }
 }
+string[] finalArray = new string[index];
